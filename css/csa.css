@@ -1,0 +1,314 @@
+/* Contact css */
+.cont {
+    border: 1px solid;
+    padding: 37px;
+    height: 210px;
+    color: #ff571e;
+    text-align: center;
+    background-color: white;
+}
+.contact img {
+    height: 850px;
+    width: 100%;
+}
+.conup {
+    position: relative;
+    bottom: 925px;
+}
+.conup1 {
+    position: relative;
+    bottom: 930px;
+} 
+/* .bac-img img {
+    background-image: url("assets/img/con1.jpg");
+    height: 770px;
+    position: relative;
+    top: 570px;
+    left: -122px;
+} */
+.conup3{
+    background-color: #ff571e;
+    position: relative;
+    bottom: 980px;
+}
+.inp1 {
+    font-size: 30px;
+    margin: 1px 40px;
+    font-family: serif;
+}
+.contact1 :hover {
+    background-color: #ff571e;
+}
+.contact {
+    position: relative;
+    top: 100px;
+}
+.cont-hide{
+    display: none;
+}
+
+.cont :hover +.cont-hide{
+    display: block;
+    background-color: #ff571e;
+    color: white;
+    transition: all 0.3s ease-in;
+}
+.cont1 :hover +.cont-hide{
+    display: block;
+    background-color: #ff571e;
+    color: white;
+    transition: all 0.3s ease-in;
+}
+.cont2 :hover +.cont-hide{
+    display: block;
+    background-color: #ff571e;
+    color: white;
+    transition: all 0.3s ease-in;
+}
+.cont3 :hover +.cont-hide{
+    display: block;
+    background-color: #ff571e;
+    color: white;
+    transition: all 0.3s ease-in;
+}
+.contact1 {
+    position: relative;
+    background-color: white;
+    top: 50px;
+    left: 30px;
+    margin: 0px 20px;
+    padding: 30px;
+    border-radius: 30px;
+}
+.maker {
+    padding: 100px 30px;
+}
+.mar {
+    position: relative;
+    top: 70px;
+    background-color: white;
+    margin: 0px 10px;
+    padding: 20px;
+    border-radius: 30px;
+}
+.f1 {
+    width: 80%;
+    margin: 25px 40px;
+    padding: 15px;
+}
+.cont1 {
+    border: 1px solid;
+    padding: 42px 10px;
+    color: #ff571e;
+    text-align: center;
+    height: 210px;
+    background-color: white;
+}
+.cont2 {
+    border: 1px solid;
+    padding: 38px 10px;
+    height: 210px;
+    color: #ff571e;
+    text-align: center;
+    background-color: white;
+}
+.cont3 {
+    border: 1px solid;
+    color: #ff571e;
+    height: 210px;
+    padding: 38px 10px;
+    text-align: center;
+    background-color: white;
+}
+/* contact css  ends*/
+/* service.css */
+.ser-con {
+    font-family: sans-serif;
+    font-size: 25px;
+    margin: 150px 30px;
+}
+.ser-con h1 {
+    color: #ff571e;
+    font-family: sans-serif;
+}
+.ser-card{
+    width: 100%;
+    height: 600px;
+    border: 1px solid;
+    box-shadow: 5px 10px #ff571e;
+    border-radius: 10px;
+    text-align: center;
+}
+.hide {
+    display: none;
+    position: relative;
+    bottom: 300px;
+    left: 180px;
+}
+.abt-imag {
+    margin: -115px 10px;
+}
+.serc :hover + .hide {
+    display: block;
+    background-color: #ff571e;
+    font-size: large;
+}
+.ser-ovr :hover{
+    height: 200px;
+}
+.ser-card :hover{
+    background-color: #ff571e;
+    box-shadow: none;
+    color: white;
+    transition: all 0.9s ease-in-out;
+}
+.ser-card img{
+    width: 100%;
+}
+.ser2 img{
+    box-shadow:  5px 5px 5px 5px #ff571e; 
+    width: 100%;
+    height: 300px;
+    margin: 10px;
+}
+.ser-img {
+    margin: 60px 10px;
+}
+.ser-img1 img  {
+    margin: 140px 10px;
+}
+/* service.css ends*/
+/* aboutus css */
+.abt {
+    text-align: center;
+    margin: 20px 0px;
+}
+.abt-content {
+    margin: 80px 10px;
+    font-size: 25px;
+    font-family: serif;
+}
+img.abt-img {
+    margin: 30px 10px;
+}
+.abt-content h1 {
+    color: #ff571e;
+    font-size: 70px;
+}
+.abt-img1{
+    border-top-right-radius: 100px;
+}
+.abt-content button {
+    font-size: 40px;
+    padding: 5px;
+    margin: 20px 1px;
+    border-radius: 40px;
+    background-color: #ff571e;
+}
+.abt-img {
+  width: 100%;
+}
+.abt-hr {
+    width: 100%;
+    height: 80px;
+    background-color: #ff571e;
+}
+.abt-head1{
+    color: #ff571e;
+}
+.abt-con1 {
+    position: relative;
+    left: 500px;
+    font-size: 10px;
+    margin: 40px 10px;
+}
+.abt-con {
+    font-size: 30px;
+    font-family: serif;
+}
+.btn1{
+    color: #ff571e;
+}
+.abt-btn1{
+    background-color: #ff571e;
+}
+.abt-imag1 img{
+    width: 90%;
+    height: 500px;
+}
+.abt-con2 h1 {
+    font-size: 70px;
+    font-family: serif;
+}
+.abt-con2 p {
+    font-size: 25px;
+    font-family: serif;
+}
+.abt-fav {
+    clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0 50%);
+    background-color: #ff571e;
+    height: 100px;
+}
+.ser-h img{
+    display: none;
+}
+ser-
+/* aboutus css ends */
+/* Login css */
+.login1 {
+    background-color: #ff571e;
+    padding: 69px;
+    position: relative;
+    bottom: 800px;
+}
+.logimg img{
+    width: 100%;
+}
+.login1 :hover {
+    background-color: #ff571e;
+    color: white;
+    transition: all 0.5s ease-out;
+}
+.login1 {
+    padding: 69px;
+    position: relative;
+    bottom: 800px;
+}
+.login-cont1 {
+    background-image: linear-gradient(45deg, white, transparent);
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin: 10px 410px;
+    padding: 100px 100px;
+}
+/* Login css ends*/
+/* signup css */
+.sigimg img {
+    width: 100%;
+}
+.lsup{
+    position: relative;
+    bottom: 1000px;
+}
+.lsup1{
+    position: relative;
+    bottom: 850px;
+}
+.sign :hover {
+    background-color: #ff571e;
+    color: white;
+    transition: all 0.5s ease-out;
+}
+.sign {
+    padding: 100px 460px;
+    position: relative;
+    bottom: 1050px;
+}
+.sign-cont {
+    background-image: linear-gradient(45deg, white, transparent);
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    margin: 10px;
+    padding: 50px;
+}
+/* signup css ends */

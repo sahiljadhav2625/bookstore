@@ -1,0 +1,356 @@
+{
+  "books":[
+    {
+      "id":1,
+      "name":"Amster Hamster Trip",
+      "actual_price":200,
+      "discount_price":156,
+      "category":"comics_book",
+      "author":"Jeannette Arroyo",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Blackwater.jpg"
+    },
+      {
+      "id":2,
+      "name":"Beauty Unplugged",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"comics_book",
+      "author":"Joanna Lafuente ",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Buffy the Last Vampire Slayer.jpg"
+    },
+     {
+      "id":3,
+      "name":"Easy Fast Cooking",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"comics_book",
+      "author":"Joanna",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Crumbs.jpg"
+    },
+     {
+      "id":4,
+      "name":"Fantasy Storytelling",
+      "actual_price":500,
+      "discount_price":390,
+      "category":"comics_book",
+      "author":"Marco Checcetto",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Devil's Reign A Marvel Event.jpg"
+    },
+      {
+      "id":5,
+      "name":"Fashion Much",
+      "actual_price":400,
+      "discount_price":312,
+      "category":"comics_book",
+      "author":"Cian Tormey",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Injustice Year Zero.jpg"
+    },
+      {
+      "id":6,
+      "name":"Japan Travel Stories",
+      "actual_price":455,
+      "discount_price":354,
+      "category":"comics_book",
+      "author":"Sylke Hachmeister",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Saga.jpg"
+    },
+        {
+      "id":7,
+      "name":"Star Wars The High Republic Adventures, Vol. 2",
+      "actual_price":100,
+      "discount_price":78,
+      "category":"comics_book",
+      "author":"Cladia Gray",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Star Wars The High Republic Adventures, Vol. 2.jpg"
+    },
+       {
+      "id":8,
+      "name":"Love Stories From Paris",
+      "actual_price":600,
+      "discount_price":468,
+      "category":"comics_book",
+      "author":"Mat Lopes",
+      "availibility":"Available",
+      "img_url":"assets/img/img/Comics_book/Supergirl Woman of Tomorrow.jpg"
+    },
+      {
+      "id":9,
+      "name":"Move a Bit",
+      "actual_price":120,
+      "discount_price":93,
+      "category":"crime_thriller",
+      "author":"Kevin EastmanWelcome to St. Hell My Trans Teen Misadventure",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Symphony Of Trilogy.jpg"
+    },
+     {
+      "id":10,
+      "name":"Summertime Love Stories",
+      "actual_price":150,
+      "discount_price":120,
+      "category":"crime_thriller",
+      "author":"Lewis Hancox",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Learn To Love Yourself.jpg"
+    },
+    {
+      "id":11,
+      "name":"Symphony Of Trilogy",
+      "actual_price":300,
+      "discount_price":234,
+      "category":"crime_thriller",
+      "author":"Ann Cleeves",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Red Clock.jpg"
+    },
+     {
+      "id":12,
+      "name":"V Word",
+      "actual_price":800,
+      "discount_price":778,
+      "category":"crime_thriller",
+      "author":"Sarah Gailey",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Move a Bit.jpg"
+    },
+    
+    {
+      "id":13,
+      "name":"Wellness And Paradise",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"crime_thriller",
+      "author":"Cormac McCarthy",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Renaissance History.jpg"
+    },
+    
+     {
+      "id":14,
+      "name":"Winter Darkest Tragedy",
+      "actual_price":750,
+      "discount_price":585,
+      "category":"crime_thriller",
+      "author":"James Tynion IV",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Move a Bit.jpg"
+    },
+     {
+      "id":15,
+      "name":"Youth Experience",
+      "actual_price":250,
+      "discount_price":195,
+      "category":"crime_thriller",
+      "author":"John Flanagan",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Symphony Of Trilogy.jpg"
+    },
+    
+     {
+      "id":16,
+      "name":"Renaissance History",
+      "actual_price":650,
+      "discount_price":507,
+      "category":"crime_thriller",
+      "author":"Elizabeth Kilcoyne",
+      "availibility":"Available",
+      "img_url":"assets/img/img/crime thriller/Summertime Love Stories.jpg"
+    },
+     {
+      "id":17,
+      "name":"Amster Hamster Trip",
+      "actual_price":150,
+      "discount_price":117,
+      "category":"historian_fiction",
+      "author":"T.Kingfisher",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/Summertime Love Stories.jpg"
+    },
+     {
+      "id":18,
+      "name":"Beauty Unplugged",
+      "actual_price":900,
+      "discount_price":800,
+      "category":"historian_fiction",
+      "author":"Sasha Laurens",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/Symphony Of Trilogy.jpg"
+    },
+     {
+      "id":19,
+      "name":"Easy Fast Cooking",
+      "actual_price":456,
+      "discount_price":350,
+      "category":"historian_fiction",
+      "author":"Nicholas Sparks",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/The Time Machine.jpg"
+    },
+     
+     {
+      "id":20,
+      "name":"Fantasy Storytelling",
+      "actual_price":120,
+      "discount_price":100,
+      "category":"historian_fiction",
+      "author":"Edith Grossman",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/V Word.jpg"
+    },
+    {
+      "id":21,
+      "name":"Japan Travel Stories",
+      "actual_price":800,
+      "discount_price":750,
+      "category":"historian_fiction",
+      "author":"Diana Gabaldon",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/Wellness And Paradise.jpg"
+    },
+     {
+      "id":22,
+      "name":"Fashion Much",
+      "actual_price":400,
+      "discount_price":350,
+      "category":"historian_fiction",
+      "author":"Sylvia Day ",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/Winter Darkest Tragedy.jpg"
+    },
+     {
+      "id":23,
+      "name":"Love Stories From Paris",
+      "actual_price":150,
+      "discount_price":120,
+      "category":"historian_fiction",
+      "author":"Ali Hazelwood",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/Yellow Chair.jpg"
+    },
+    {
+      "id":24,
+      "name":"Learn To Love Yourself",
+      "actual_price":140,
+      "discount_price":120,
+      "category":"historian_fiction",
+      "author":"Rowan",
+      "availibility":"Available",
+      "img_url":"assets/img/img/historian fiction/Youth Experience.jpg"
+    },
+     {
+      "id":25,
+      "name":"Move a Bit",
+      "actual_price":420,
+      "discount_price":323,
+      "category":"story_books",
+      "author":"Rowan",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/1.jpg"
+    },
+     {
+      "id":26,
+      "name":"Renaissance History",
+      "actual_price":235,
+      "discount_price":135,
+      "category":"story_books",
+      "author":"Alexis Daria",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/Escape from Hat.jpg"
+    },
+      {
+      "id":27,
+      "name":"Summertime Love Stories",
+      "actual_price":487,
+      "discount_price":450,
+      "category":"story_books",
+      "author":"Marcin Minor",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/c-3.jpg"
+    },
+     {
+      "id":28,
+      "name":"Symphony Of Trilogy",
+      "actual_price":125,
+      "discount_price":100,
+      "category":"story_books",
+      "author":"Brian Taylor",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/c-2.jpg"
+    },
+     {
+      "id":29,
+      "name":"V Word",
+      "actual_price":655,
+      "discount_price":500,
+      "category":"story_books",
+      "author":"Brian Taylor ",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/c-1.jpg"
+    },
+     {
+      "id":30,
+      "name":"Wellness And Paradise",
+      "actual_price":78,
+      "discount_price":60,
+      "category":"story_books",
+      "author":"Mat Heagerty",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/Bazyl i Licho.jpg"
+    },
+     {
+      "id":31,
+      "name":"Winter Darkest Tragedy",
+      "actual_price":121,
+      "discount_price":109,
+      "category":"story_books",
+      "author":"Sam Owen",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/Lumber-Jackula.jpg"
+    },
+     {
+      "id":32,
+      "name":"Youth Experience",
+      "actual_price":321,
+      "discount_price":125,
+      "category":"story_books",
+      "author":"Ali Bahrampour",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/J.R. Silver Writes Her World.jpg"
+    },
+    {
+      "id":33,
+      "name":"Bad Data",
+      "actual_price":123,
+      "discount_price":111,
+      "category":"story_books",
+      "author":"James Patterson",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/Monsters in the Fog.jpg"
+    },
+     {
+      "id":34,
+      "name":"Renaissance History",
+      "actual_price":650,
+      "discount_price":507,
+      "category":"story_books",
+      "author":"Elizabeth Kilcoyne",
+      "availibility":"Available",
+      "img_url":"assets/img/img/story_books/c-3.jpg"
+    }
+    ],
+    "user":[
+      {
+        "username":"seemabbhoir",
+        "password":"123456789"
+      }
+    
+      ]
+    
+}
